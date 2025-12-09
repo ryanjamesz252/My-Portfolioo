@@ -1,4 +1,4 @@
-# James Ryan D. Bontug Portfolio
+# My Portfolio
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +46,7 @@ Showcase of my certifications.
 - Introduction to Cybersecurity, Cisco Networking Academy, 04 Dec 2025  
 
 **Screenshot:**
-![Certificates](images/certificates.jpg)
+![Certificates](images/certificate.jpg)
 
 ---
 
