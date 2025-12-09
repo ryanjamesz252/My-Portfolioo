@@ -46,7 +46,7 @@ Showcase of my certifications.
 - Introduction to Cybersecurity, Cisco Networking Academy, 04 Dec 2025  
 
 **Screenshot:**
-![Certificates](images/certificates.png)
+![Certificates](images/certificates.jpg)
 
 ---
 
