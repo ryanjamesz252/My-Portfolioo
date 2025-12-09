@@ -57,7 +57,7 @@ Personal projects that demonstrate my skills.
 Technologies used: HTML, CSS, JavaScript, Figma
 
 **Screenshot:**
-![Projects](images/projects.png)
+![Projects](projects.png)
 
 > Clicking "View Project" in the live portfolio displays the project image `project.png`.
 
